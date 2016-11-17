@@ -123,7 +123,7 @@ echo "</tr>";
 <div class="col-sm-4 text-center"><a href="http://www.facebook.com/amitaajamit" target="_blank"><img src="images/facebook.png" alt="facebook" width="50" height="50"></a><a href="http://www.twitter.com" target="_blank"><img src="images/twitter.png" alt="twitter" width="50" height="50"></a><a href="http://www.google.com/amitaajamit" target="_blank"><img src="images/google.png" alt="google" width="50" height="50"></a>
 </div>
 <div class="col-sm-4">
-<p>COPYRIGHT SCHOOL MANAGEMENT SYSTEM</p>
+<p>COPYRIGHT SCHOOL</p>
 </div>
 
 </div>
