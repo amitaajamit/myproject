@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+/* header Wrap*/
+html{
+	position:relative;
+	min-height:100%;
+	height:100%;
+	
+}
+body{
+	 
+	min-height:100%;
+	height:100%;
+	font-family:'Open Sans',sans-serif;
+}
+.navbar-default .navbar-brand {
+  display: block;
+    min-height: 0px;
+	
+	
+}
+.navbar {
+ 
+  margin: 0;
+  border-radius: 0;
+  border: none;
+  
+}
+
+.brand{
+	color:#337ab7;
+	
+}
+#logout{
+	
+	padding-right: 91px;
+	}
+
+	.footer{
+		position:relative;
+		width:100%;
+		top:200px;
+	
+		
+		
+	}
+.footer-links{
+	padding:12px 0 0;
+		}
+.footer-links li a, .footer p{
+	font-size:12px;
+	text-transform:uppercase;
+	margin:0;
+	line-height:24px;
+	color: #7d7d7d;
+	
+	}
+	.footer p {
+  margin-top: 12px;
+  text-align: right;
+}
+	
+	/*------------------------Teacher/student table--------------------------------*/
+	.table-user{
+		padding:100px 0 ;
+	}
+	td{
+		
+	text-align:middle;
+	}
+	
+	
+	/*-------------------Admin.php------------------------------*/
+	.content2{
+	padding:20px 0;
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	@media screen and (max-width: 1199px) {
+		.table-user{
+			margin-right: 76px;
+			}
+		
+	}
+	@media screen and (max-width: 1010px) {
+      
+		}
+	@media screen and (max-width: 992px) {
+		.navbar-default .navbar-brand {
+         max-width: 300px;
+         min-height: 108px;
+		
+  }
+	
+	}
+	@media screen and (max-width: 768px) {
+		.navbar-default .navbar-brand {
+         max-width: 230px;
+         min-height: 88px;
+         margin: 0 auto;
+         float: none;
+		
+  }
+  
+	
+.footer-links{
+	text-align:center;
+	}
+.footer p{
+	text-align:center;
+}
+.footer{
+	bottom:0;
+}
+
+	}
+	
